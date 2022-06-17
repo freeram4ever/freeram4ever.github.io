@@ -1,0 +1,103 @@
+body {
+    background-color: rgb(237, 248, 191);
+    
+}
+
+.buttonClass2 {
+    font-size:40px;
+    font-family:Georgia;
+    width:250px;
+    height:200px;
+    border-width:15px;
+    color:#fff;
+    border-color:rgba(32, 100, 180, 1);
+    font-weight:bold;
+    border-top-left-radius:28px;
+    border-top-right-radius:28px;
+    border-bottom-left-radius:28px;
+    border-bottom-right-radius:28px;
+    text-shadow: 1px 1px 0px rgba(20, 65, 13, 1);
+    background:rgba(12, 243, 73, 1);
+  }
+  
+  .buttonClass:hover {
+    background: rgba(118, 223, 63, 1)
+  }
+          
+  
+.buttonClass4 {
+    font-size:30px;
+    font-family:Impact;
+    width:200px;
+    height:100px;
+    border-width:1px;
+    color:#fff;
+    border-color:#599bb3;
+    font-style:italic;
+    border-top-left-radius:8px;
+    border-top-right-radius:8px;
+    border-bottom-left-radius:8px;
+    border-bottom-right-radius:8px;
+    box-shadow: 0px 10px 14px -7px #276873;
+    text-shadow: 0px 1px 0px #3d768a;
+    background:linear-gradient(rgba(24, 122, 160, 1), rgba(108, 116, 117, 1));
+  }
+  
+  .buttonClass:hover {
+    background: linear-gradient(rgba(108, 116, 117, 1), rgba(24, 122, 160, 1));
+  }
+      
+  
+
+  .buttonClass5 {
+    font-size:40px;
+    font-family:'Courier New', Courier, monospace;
+    width:200px;
+    height:100px;
+    border-width:1px;
+    color:#fff;
+    border-color:rgba(255, 255, 255, 1);
+    font-weight:bold;
+    border-top-left-radius:18px;
+    border-top-right-radius:18px;
+    border-bottom-left-radius:18px;
+    border-bottom-right-radius:18px;
+    box-shadow: 3px 4px 0px 0px rgba(0, 0, 0, 1);
+    text-shadow: 0px 1px 0px #810e05;
+    background:linear-gradient(rgb(61, 202, 14), rgba(58, 110, 39, 1));
+  }
+  
+  .buttonClass:hover {
+    background: linear-gradient(rgba(58, 110, 39, 1), rgba(94, 231, 47, 1));
+  }
+              
+  
+
+.special2 {
+    font-size: 20px;
+}
+
+.special4 {
+    font-size: 25px;
+    color: red;
+}
+
+.special5 {
+    font-size: 29px;
+    color: rgb(0, 0, 0);
+    background-color: #3d768a;
+}
+
+.special6{
+    font-size: 50px;
+    color:blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.special7{
+    font-size: 20px;
+
+}
+.special8{
+    font-size: 15px;
+}
